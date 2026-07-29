@@ -1,6 +1,9 @@
 ---
 pl:
   attributes:
+    size_type:
+      name: Size type
+      description: Describes the cut of a product, such as regular, petite, plus, big, tall, or maternity.
     3d_glasses_fit_design:
       name: Konstrukcja dopasowania okularów 3D
       description: Wskazuje, w jaki sposób okulary są noszone lub mocowane (np. przypinane,

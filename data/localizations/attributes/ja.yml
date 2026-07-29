@@ -1,6 +1,9 @@
 ---
 ja:
   attributes:
+    size_type:
+      name: Size type
+      description: Describes the cut of a product, such as regular, petite, plus, big, tall, or maternity.
     3d_glasses_fit_design:
       name: 3Dメガネのフィットデザイン
       description: メガネの着用方法または取り付け方法を示す (例：クリップオン、ラップアラウンド、フィットオーバー)

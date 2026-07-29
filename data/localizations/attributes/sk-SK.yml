@@ -1,6 +1,9 @@
 ---
 sk-SK:
   attributes:
+    size_type:
+      name: Size type
+      description: Describes the cut of a product, such as regular, petite, plus, big, tall, or maternity.
     3d_glasses_fit_design:
       name: Dizajn uchytenia 3D okuliarov
       description: Označuje, ako sa okuliare nosia alebo pripevňujú (napr. príchytka,

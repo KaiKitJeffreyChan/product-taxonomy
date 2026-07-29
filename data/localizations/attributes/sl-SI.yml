@@ -1,6 +1,9 @@
 ---
 sl-SI:
   attributes:
+    size_type:
+      name: Size type
+      description: Describes the cut of a product, such as regular, petite, plus, big, tall, or maternity.
     3d_glasses_fit_design:
       name: Zasnova prileganja 3D očal
       description: Označuje, kako se očala nosijo ali pritrdijo (npr. sponke, ovijalna,

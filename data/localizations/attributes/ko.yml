@@ -1,6 +1,9 @@
 ---
 ko:
   attributes:
+    size_type:
+      name: Size type
+      description: Describes the cut of a product, such as regular, petite, plus, big, tall, or maternity.
     3d_glasses_fit_design:
       name: 3D 안경 착용 디자인
       description: '안경을 착용하거나 부착하는 방법을 나타냅니다(예: 클립온, 랩어라운드, 오버핏)'

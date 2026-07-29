@@ -1,6 +1,9 @@
 ---
 pt-BR:
   attributes:
+    size_type:
+      name: Size type
+      description: Describes the cut of a product, such as regular, petite, plus, big, tall, or maternity.
     3d_glasses_fit_design:
       name: Design de encaixe dos óculos 3D
       description: Indica como os óculos são usados ou fixados (p. ex., tipo clip-on,

@@ -1,6 +1,9 @@
 ---
 vi:
   attributes:
+    size_type:
+      name: Size type
+      description: Describes the cut of a product, such as regular, petite, plus, big, tall, or maternity.
     3d_glasses_fit_design:
       name: Thiết kế vừa vặn kính 3D
       description: Cho biết cách kính được đeo hoặc gắn (ví dụ, kẹp vào, bao quanh,

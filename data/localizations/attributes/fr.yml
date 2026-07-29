@@ -1,6 +1,9 @@
 ---
 fr:
   attributes:
+    size_type:
+      name: Size type
+      description: Describes the cut of a product, such as regular, petite, plus, big, tall, or maternity.
     3d_glasses_fit_design:
       name: Conception de l’ajustement des lunettes 3D
       description: Indique comment les lunettes sont portées ou attachées (par exemple,

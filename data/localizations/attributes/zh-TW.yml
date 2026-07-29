@@ -1,6 +1,9 @@
 ---
 zh-TW:
   attributes:
+    size_type:
+      name: Size type
+      description: Describes the cut of a product, such as regular, petite, plus, big, tall, or maternity.
     3d_glasses_fit_design:
       name: 3D 眼鏡配戴設計
       description: 指示眼鏡的佩戴或附著方式 (例如，夾式、環繞式、覆蓋式)

@@ -1,6 +1,9 @@
 ---
 nb:
   attributes:
+    size_type:
+      name: Size type
+      description: Describes the cut of a product, such as regular, petite, plus, big, tall, or maternity.
     3d_glasses_fit_design:
       name: 3D-briller passformdesign
       description: Indikerer hvordan brillene bæres eller festes (f.eks. klips-på,

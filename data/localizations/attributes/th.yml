@@ -1,6 +1,9 @@
 ---
 th:
   attributes:
+    size_type:
+      name: Size type
+      description: Describes the cut of a product, such as regular, petite, plus, big, tall, or maternity.
     3d_glasses_fit_design:
       name: การออกแบบการสวมใส่แว่น 3D
       description: ระบุวิธีการสวมใส่หรือติดแว่น (เช่น คลิปออน, รอบศีรษะ, สวมทับ)

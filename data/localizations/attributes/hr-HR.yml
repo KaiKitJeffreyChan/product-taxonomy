@@ -1,6 +1,9 @@
 ---
 hr-HR:
   attributes:
+    size_type:
+      name: Size type
+      description: Describes the cut of a product, such as regular, petite, plus, big, tall, or maternity.
     3d_glasses_fit_design:
       name: Dizajn prianjanja 3D naočala
       description: Označava kako se naočale nose ili pričvršćuju (npr. klip-on, wrap-around,
